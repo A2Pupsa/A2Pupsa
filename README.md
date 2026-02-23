@@ -19,13 +19,13 @@
 ### Some of my projects
 
 #### JobTrackerApp
-<a href="https://github.com/A2Pupsa/JobTrackerApp">Link to Repo</a>
+<a href="https://github.com/A2Pupsa/JobTrackerApp">Link to Repo</a><br/>
 Made for mostly personal use
 <img width="600" height="500" alt="Näyttökuva 2025-09-20 130854" src="https://github.com/user-attachments/assets/325088c4-e005-4cb0-889f-cd04358128be" alt="JobTrackerApp" width="600" />
 
 
 #### Factory building Sandbox Game - Sulfur (Group Project)
-<a href="https://github.com/kahegit/group_6">Link to Repo</a>
+<a href="https://github.com/kahegit/group_6">Link to Repo</a><br/>
 Made by: Me, <a href="https://github.com/kahegit">Herkko</a>, <a href="https://github.com/Farmapu">Tuukka</a>, <a href="https://github.com/MaKe141">Markus</a>
 
 
