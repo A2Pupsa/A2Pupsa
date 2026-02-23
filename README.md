@@ -19,7 +19,8 @@
 ### Some of my projects
 
 #### JobTrackerApp
-
+<a href="https://github.com/A2Pupsa/JobTrackerApp">Link to Repo</a>
+Made for mostly personal use
 <img width="600" height="500" alt="Näyttökuva 2025-09-20 130854" src="https://github.com/user-attachments/assets/325088c4-e005-4cb0-889f-cd04358128be" alt="JobTrackerApp" width="600" />
 
 
